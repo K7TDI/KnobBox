@@ -1,0 +1,5 @@
+Here are some current issues at the time of writing:
+
+I'd highly reccomend doing your own research, especially around the enclosure.  The one used here is too small (mainly inside height) to hold everything.  I had to bend several of the pins at an angle to make the cables fit, although I think this can be easily remedied by making the board bigger to allow the use of 90 degree pin headers on all the connections.  There is still hardly any room between the top of the Arduino and the connections on the bottom of the LCD display the way it is now.  My plan for the next version, when I have time to make it, is to make the board the complete size of the bottom of the enclosure, and see if I can route everything while turning the arduino 90 degrees from where it is now.
+
+Currently the board is about half the size it could be, because when I originally started designing the project, that was the biggest board I could make.  In addition to the ideas mentioned above, the new version will definately have a microUSB connector at the front.  I tried shoehorning a USB-B connector into the case and it just isn't going to happen (at least with my skills).
