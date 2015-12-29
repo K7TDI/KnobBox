@@ -4,6 +4,7 @@ I designed it in Eagle (pretty poorly) using the default libraries plus the Spar
 
 
 Sparkfun libraries: https://github.com/sparkfun/SparkFun-Eagle-Libraries
+
 Adafruit libraries: https://github.com/adafruit/Adafruit-Eagle-Library
 
 
