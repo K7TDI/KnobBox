@@ -17,6 +17,8 @@ An enclosure
 
 A custom PCB
 
+
+
 **Notice/Current issues**
 
 This is NOT complete, and is a pain to assemble.  I've included issues and proposed fixes in the hardware folder.
@@ -28,3 +30,8 @@ I really hope to get feedback and help with this project.  I've been plugging aw
 I hope you find what I've released here helpful, and at least a starting point for your own ideas.
 
 If you like this and use it for your own project that you distribute, I'd appreciate it if you included a mention of my callsign (K7TDI) and a link to this repo.
+
+
+
+**If you'd like to contact me:**
+**k7tdi@technotechnician.com**
