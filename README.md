@@ -17,7 +17,11 @@ An enclosure
 
 A custom PCB
 
-
+Some videos:
+https://vimeo.com/150329712
+https://vimeo.com/150324509
+https://vimeo.com/150324508
+https://vimeo.com/150324507
 
 **Notice/Current issues**
 
